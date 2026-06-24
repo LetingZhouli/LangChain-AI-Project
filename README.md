@@ -233,7 +233,7 @@ isort main.py
 
 ## License
 
-[Add your license information here]
+MIT
 
 ## Contributing
 
@@ -241,4 +241,4 @@ Contributions are welcome! Please follow the code quality standards and submit p
 
 ## Support
 
-For issues or questions, please open an issue in the repository or contact the project maintainers.
+For issues or questions, please open an issue in the repository or contact the author Leting @letingzhouli@gmail.com.
